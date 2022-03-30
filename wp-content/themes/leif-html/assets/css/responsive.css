@@ -1,0 +1,5 @@
+@media (min-width: 1366px) and (max-width: 1440.9px) {
+	header.header ul.navbar-nav li {
+		margin: 0 10px;
+	}
+}
